@@ -12,14 +12,12 @@ Palheta de cores usadas:
 - Soft Magenta: hsl(300, 69%, 71%)
 
 Tipografia: 
-
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 400, 600
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - Weights: 400
 
 Ícones:
-
 - [Font Awesome](https://fontawesome.com/)
 
 ````
