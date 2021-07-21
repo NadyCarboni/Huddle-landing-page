@@ -28,7 +28,7 @@ Clique [aqui](https://huddle-landing-page-nadia.netlify.app/) para visitar o sit
 - Treinei e tive um melhor compreendimento de @media-queries
 - Pratiquei o uso de unidades de medida como o **vh** e o **rem**
 
-## Preview das 31 primeiras linhas de código
+## Preview das 31 primeiras linhas de código CSS
 <p Align=center>
 <img src="https://lh3.googleusercontent.com/-vHRNE6GABG0/YMD1PSZzJ3I/AAAAAAAAA7o/vRNgXzgQgYEG4aGGqjmJOmY1t5_pSGdQACLcBGAsYHQ/image.png" alt="preview">
 </p>
